@@ -2,12 +2,12 @@
 layout:     post
 title:      "another blog"
 subtitle:   " \"打造你的 GitHub Pages 专属博客\""
-date:       2016-07-07 14:00:00
+<!-- date:       2016-07-07 14:00:00 -->
 author:     "JhaoYue"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
-tags:
-    - 生活
+<!-- tags:
+    - 生活 -->
 ---
 
 > “Yeah It's on. ”

@@ -6,8 +6,8 @@ subtitle:   " \"打造你的 GitHub Pages 专属博客\""
 author:     "JhaoYue"
 header-img: "img/post-bg-2016.jpg"
 catalog: true
-tags:
-    - 生活
+<!-- tags:
+    - 生活 -->
 ---
 
 > “Yeah It's on. ”
