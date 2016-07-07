@@ -1,16 +1,15 @@
 ---
 layout:     post
 title:      "How to make a blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+subtitle:   " \"打造你的 GitHub Pages 专属博客\""
+date:       2016-07-07 12:00:00
+author:     "JhaoYue"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 生活
 ---
 
-> “Yeah It's on. ”
 
 ## Build Your First Jekyll Blog
 
@@ -102,23 +101,23 @@ yourname 是指你的 GitHub Name，此处命名形式 yourname 必须与你的�
 <div class="highlighter-rouge">
 
 ```
-|-- _config.yml
-|-- index.html
-|-- _includes
-|-- _layouts
-|   |-- default.html
-|   `-- post.html
-|-- css
-|-- js
-|-- _posts
-|   `-- 2015-04-27-Like-Kissing.md
-|-- images
-|   `-- Leah.png 
-|-- CNAME
-|-- _404.html
-|-- About.md
-|—— feed.xml
-`-- README.md
+*|-- _config.yml
+*|-- index.html
+*|-- _includes
+*|-- _layouts
+*|   |-- default.html
+*|   `-- post.html
+*|-- css
+*|-- js
+*|-- _posts
+*|   `-- 2015-04-27-Like-Kissing.md
+*|-- images
+*|   `-- Leah.png 
+*|-- CNAME
+*|-- _404.html
+*|-- About.md
+*|—— feed.xml
+*`-- README.md
 
 ```
 
