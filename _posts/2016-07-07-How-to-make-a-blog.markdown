@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to make a blog"
 subtitle:   " \"打造你的 GitHub Pages 专属博客\""
-date:       2016-07-07 12:00:00
+date:       2015-01-29 12:00:00
 author:     "JhaoYue"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -106,14 +106,11 @@ yourname 是指你的 GitHub Name，此处命名形式 yourname 必须与你的�
 *   index.html
 *   _includes
 *   _layouts
-*   |-- default.html
-*   `-- post.html
+*   default.html
 *   css
 *   js
 *   _posts
-*   `-- 2015-04-27-Like-Kissing.md
 *   images
-*   `-- Leah.png 
 *   CNAME
 *   _404.html
 *   About.md
@@ -200,18 +197,12 @@ Clone 或创建个人博客项目
 
 上图显示的就是提交的流程：
 
-<div class="highlighter-rouge">
+*   选择相应的项目（这是是博客项目）；
+*   如有修改，在 Description 填写说明（可以非常简要，但不能省略）；
+*   点击「Commit to master」，提交修改；
+*   点击右上角的「Sync」；
+*   文件同步完成，片刻后更新生效。
 
-```
-0\. 选择相应的项目（这是是博客项目）；
-1\. 如有修改，在 Description 填写说明（可以非常简要，但不能省略）；
-2\. 点击「Commit to master」，提交修改；
-3\. 点击右上角的「Sync」；
-4\. 文件同步完成，片刻后更新生效。
-
-```
-
-</div>
 
 ## Introduction Markdown Syntax
 
@@ -256,7 +247,6 @@ Markdown 文件的命名类型为「日期(20xx-xx-xx) + 主题(英文) + 格式
 
 例如本博客的文章，代码类型一般是这样：
 
-<div class="highlighter-rouge">
 
 ```
 ---
@@ -270,7 +260,6 @@ description: 如何创造优美的阅读体验
 
 ```
 
-</div>
 
 这其中，
 
@@ -286,7 +275,6 @@ description: 如何创造优美的阅读体验
 
 以下则是（另一个博客主题的模板下）一篇博文内容的栗子：
 
-<div class="highlighter-rouge">
 
 ```
 ---
@@ -306,7 +294,6 @@ published: true
 
 ```
 
-</div>
 
 Sample.md 文档后填写相应的内容，开始写博文。Dropbox 文档可以预览时复制粘贴格式到本地的编辑器开始写。
 
