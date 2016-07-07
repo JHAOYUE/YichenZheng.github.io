@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to make a blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-07-07 12:00:00
+date:       2015-01-29 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -11,6 +11,7 @@ tags:
 ---
 
 > “Yeah It's on. ”
+
 
 ## Build Your First Jekyll Blog
 
@@ -422,3 +423,4 @@ DNSPod 的帮助说明里对于常见域名服务商，如 GoDaddy/NameCheap/ �
 This work is licensed under a [CC A-S 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 * * *
+
