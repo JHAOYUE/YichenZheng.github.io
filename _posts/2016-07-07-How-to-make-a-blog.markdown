@@ -2,9 +2,9 @@
 layout:     post
 title:      "How to make a blog"
 subtitle:   " \"打造你的 GitHub Pages 专属博客\""
-date:       2014-07-07 12:00:00
+<!-- date:       2014-07-07 12:00:00 -->
 author:     "JhaoYue"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2016.jpg"
 catalog: true
 tags:
     - 生活
