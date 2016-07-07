@@ -3,7 +3,7 @@ layout:     post
 title:      "How to make a blog"
 subtitle:   " \"打造你的 GitHub Pages 专属博客\""
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "JhaoYue"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
