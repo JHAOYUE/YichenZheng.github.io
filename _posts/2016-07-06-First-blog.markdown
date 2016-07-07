@@ -6,8 +6,8 @@ subtitle:   " TED演讲集:潜入深渊 "
 author:     "JhaoYue"
 header-img: "img/post-bg-2016.jpg"
 catalog: true
-<!-- tags:
-    - 生活 -->
+tags:
+    - 生活
 ---
 
 > “Yeah It's on. ”
@@ -15,7 +15,7 @@ catalog: true
 
 ## TED演讲集
 
-### 优酷视频测试
+### 优酷视频
 
 
 
