@@ -50,9 +50,7 @@ Jekyll 是一个静态站点生成器，基于 ruby 语言编写。结合 Markdo
 
 ### Choose Your Favorite Blog Theme
 
-因为在主题模板方面吃过好多亏了…所以亲自上手打造了一个精选的博客主题模板库。具体请探索——
-
-![BlogThemes](/img/Themes/BlogThemesX.jpg)
+因为在主题模板方面吃过好多亏了…所以亲自上手打造了一个精选的博客主题模板库。具体请探索
 
 [Jekyll 博客主题精选 - Microdust](http://azeril.me/blog/Selected-Collection-of-Jekyll-Themes.html)
 
@@ -401,11 +399,3 @@ DNSPod 的帮助说明里对于常见域名服务商，如 GoDaddy/NameCheap/ �
 *   [Jekyll](https://github.com/jekyll/jekyll) GitHub 上的 Jekyll 官方仓库
 *   [安装 Jekyll](http://jekyllcn.com/docs/installation/) 在本地配置 Jekyll 环境，实现本地 Blog 配置改动和博文发布的预览。
 *   [使用 Github Pages 建独立博客](http://beiyuu.com/github-pages/)
-
-* * *
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-This work is licensed under a [CC A-S 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-* * *
-
