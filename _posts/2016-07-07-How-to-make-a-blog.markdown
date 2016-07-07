@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "How to make a blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+subtitle:   " \"打造你的 GitHub Pages 专属博客\""
+date:       2016-07-07 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -100,30 +100,28 @@ yourname 是指你的 GitHub Name，此处命名形式 yourname 必须与你的�
 
 一个典型博客的基础目录结构：
 
-<div class="highlighter-rouge">
 
-```
-|-- _config.yml
-|-- index.html
-|-- _includes
-|-- _layouts
-|   |-- default.html
-|   `-- post.html
-|-- css
-|-- js
-|-- _posts
-|   `-- 2015-04-27-Like-Kissing.md
-|-- images
-|   `-- Leah.png 
-|-- CNAME
-|-- _404.html
-|-- About.md
-|—— feed.xml
-`-- README.md
 
-```
+*   _config.yml
+*   index.html
+*   _includes
+*   _layouts
+*   |-- default.html
+*   `-- post.html
+*   css
+*   js
+*   _posts
+*   `-- 2015-04-27-Like-Kissing.md
+*   images
+*   `-- Leah.png 
+*   CNAME
+*   _404.html
+*   About.md
+*   feed.xml
+*   README.md
 
-</div>
+
+
 
 ### Description of The Catalog Document
 
