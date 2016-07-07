@@ -1,11 +1,13 @@
 ---
 layout:     post
-title:      "How to make a blog"
+title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-07-07 12:00:00
-author:     "JhaoYue"
+date:       2015-01-29 12:00:00
+author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
+tags:
+    - 生活
 ---
 
 > “Yeah It's on. ”
@@ -13,9 +15,11 @@ catalog: true
 
 ## 前言
 
-JhaoYue 的 Blog 就这么开通了。
+Hux 的 Blog 就这么开通了。
 
-(#build) 
+[跳过废话，直接看技术实现 ](#build) 
+
+
 
 2015 年，Hux 总算有个地方可以好好写点东西了。
 
