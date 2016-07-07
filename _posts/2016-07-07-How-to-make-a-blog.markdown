@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "How to make a blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
 author:     "Hux"
@@ -15,7 +15,7 @@ tags:
 
 ## 前言
 
-Hux 的 Blog 就这么开通了。
+JhaoYue 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
